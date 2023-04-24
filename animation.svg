@@ -44,7 +44,7 @@
       </style>
 
       <div class="container">
-        <h1>Login To Go<div class="lock">🔒</div></h1>
+        <h1>Login To <span style="color:green">Go</span><div class="lock">🔒</div></h1>
       </div>
     </div>
   </foreignObject>
