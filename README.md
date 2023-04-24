@@ -15,4 +15,10 @@
 
 심심해서 구글링하며 만들어본 JavaScript를 활용한 로그인 시스템입니다.
 
-<br />
+### 💻 Used Languages
+- &nbsp; HTML
+- &nbsp; CSS
+- &nbsp; JavaScript
+
+### 📄 License
+- &nbsp; There is no license applied to this repository.
